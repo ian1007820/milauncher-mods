@@ -1,0 +1,217 @@
+{
+  "version": "1.0.0",
+  "generado": "2026-10-12T06:32:10.878Z",
+  "mods": [
+    {
+      "nombre": "CustomPlayerModels-1.20-0.6.27a.jar",
+      "sha256": "f4964fb5b008eea1401853c6ba19a623b5fd6f10e3e14c77d686d999a0bb7c42",
+      "tamano": 2805930
+    },
+    {
+      "nombre": "MenuDED3-0.0.0.jar",
+      "sha256": "f3b7777f718498a0d1acd07de8d10f93f18ad99b0441a68d828ca4dc45f5f387",
+      "tamano": 869959
+    },
+    {
+      "nombre": "Pehkui-3.8.2+1.20.1-forge.jar",
+      "sha256": "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
+      "tamano": 671605
+    },
+    {
+      "nombre": "SpiderOverhaul-0.0.6-Forge-v1.20.jar",
+      "sha256": "8d9e056e836271646c71ba3f3f2ff222199396a1b1c63539e3b95fbaaca1e5fd",
+      "tamano": 528118
+    },
+    {
+      "nombre": "TiaAmbientalista-1.0.0.jar",
+      "sha256": "25f88cf84b498983f1d4d6cdead26d1e6d32afef59a26fa613a74a94c7c4bf2d",
+      "tamano": 19867
+    },
+    {
+      "nombre": "[1.20.1] SecurityCraft v1.10.1.jar",
+      "sha256": "ec601ba570c5351c353fc1ee0eb2f4823d1c026d265a96d3ec802070a50b6ebd",
+      "tamano": 4769715
+    },
+    {
+      "nombre": "alexscaves-2.0.2.jar",
+      "sha256": "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0",
+      "tamano": 74871657
+    },
+    {
+      "nombre": "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+      "sha256": "8c61087aa483f90861451682519582e03fa76e773d855e35180a8ed3428938bc",
+      "tamano": 23963009
+    },
+    {
+      "nombre": "born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "sha256": "9f242f4f3330f3d0d985f5f3ce9a92fe09016ff9c6162252f201d17009b28d7d",
+      "tamano": 11839865
+    },
+    {
+      "nombre": "borninconfiguration-3.2.1[FORGE].jar",
+      "sha256": "0a2c0b7e71c78462ff1dbac62d7a4e0608948ab3f497a4df5ef7bf7de3e13b81",
+      "tamano": 2971295
+    },
+    {
+      "nombre": "citadel-2.6.3-1.20.1.jar",
+      "sha256": "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
+      "tamano": 3185275
+    },
+    {
+      "nombre": "cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "tamano": 1181413
+    },
+    {
+      "nombre": "collective-1.20.1-8.39.jar",
+      "sha256": "594bc5d40f2a3fec1ad95732524f65e01a27ac2abeb9d59889cd9f01fd8db6cb",
+      "tamano": 745947
+    },
+    {
+      "nombre": "collective-1.20.1-8.40.jar",
+      "sha256": "bb530e601fdd1217cdac24d700ad2888ac3ccc23f255869ab9947e4028267198",
+      "tamano": 745947
+    },
+    {
+      "nombre": "coroutil-forge-1.20.1-1.3.7.jar",
+      "sha256": "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
+      "tamano": 64187
+    },
+    {
+      "nombre": "customskyboxes-forge-mc1.20.1-1.0.3.1.jar",
+      "sha256": "b3c3c6aea3532858544e2569b05d920e684c01c2b044651273b7696e0e7e0be0",
+      "tamano": 156587
+    },
+    {
+      "nombre": "d3fanmod-0.0.5-forge-1.20.1.jar",
+      "sha256": "ed3079f6c273ae04c97a801bb97237dbdbc07e70b6e847f823b0548fde9ecb8e",
+      "tamano": 3042838
+    },
+    {
+      "nombre": "dedsafio3-0.0.9-forge-1.20.1 (1) (2).jar",
+      "sha256": "f9d2742b5c3f07c499725584039f87e3daacf09d1f4aaafae29fb70a124040e6",
+      "tamano": 7366550
+    },
+    {
+      "nombre": "dedsafio3-0.0.9-forge-1.20.1 (1).jar",
+      "sha256": "f9d2742b5c3f07c499725584039f87e3daacf09d1f4aaafae29fb70a124040e6",
+      "tamano": 7366550
+    },
+    {
+      "nombre": "emi-1.1.24+1.20.1+forge.jar",
+      "sha256": "92784dcf5222d72983a420c90f2e9240468ee0fece96f757c82d7884b6cbdb72",
+      "tamano": 1121750
+    },
+    {
+      "nombre": "fabric-api-0.92.12+1.20.1.jar",
+      "sha256": "4197ff4fbdac13cffccd267c1bc59e9fbabb2b5683a9d5f8023f4b5ea16a1c1e",
+      "tamano": 2137232
+    },
+    {
+      "nombre": "framework-forge-1.20.1-0.8.0.jar",
+      "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0",
+      "tamano": 383868
+    },
+    {
+      "nombre": "geckolib-forge-1.20.1-4.8.3.jar",
+      "sha256": "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250",
+      "tamano": 1039046
+    },
+    {
+      "nombre": "huge-structure-blocks-forge-1.1.10.jar",
+      "sha256": "e1ee5265fe4ed605e7613a455ee71e5c0bd1bb70ac40fba60040423458e38763",
+      "tamano": 102150
+    },
+    {
+      "nombre": "incontrol-1.20-9.5.0.jar",
+      "sha256": "c2c52bb32819dc8723f11c34099023fb08ab4f48d21d26eeadf671893465bf66",
+      "tamano": 371650
+    },
+    {
+      "nombre": "jei-1.20.1-fabric-15.62.0.219.jar",
+      "sha256": "18c739d8b61fcc265607183bc789a9b45c18c8cb6ffb04290aad79a1ce135ba2",
+      "tamano": 2262344
+    },
+    {
+      "nombre": "konkrete_forge_1.6.1-2_MC_1.20.jar",
+      "sha256": "eb656a4f82370c6080e574be0021780e594a53e36fd45b692e9973956d329bd5",
+      "tamano": 624093
+    },
+    {
+      "nombre": "majrusz-library-forge-1.20.1-7.0.8.jar",
+      "sha256": "4d58fc2db26343d6b163dbb8f8c98e554ada6fffb634b9896c2d274629090548",
+      "tamano": 437340
+    },
+    {
+      "nombre": "majruszs-difficulty-forge-1.20.1-1.9.10.jar",
+      "sha256": "3a47dee789e49050e2819e1c173c7fc4d8020a8604e7ed9afb4017a941ba86f3",
+      "tamano": 777242
+    },
+    {
+      "nombre": "mezz_config-1.20.1-forge-0.6.8.jar",
+      "sha256": "93d04b64ed5120350aed8a6d25efe5703fdbc720c233d7da3274feafd076c7e1",
+      "tamano": 364842
+    },
+    {
+      "nombre": "modmenu-7.1.0 (1).jar",
+      "sha256": "dab14e028f3a3e121f1603cc55af10645f5e29fdcf4f518238e3bf48275de897",
+      "tamano": 717936
+    },
+    {
+      "nombre": "mowziesmobs-1.8.2.jar",
+      "sha256": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c",
+      "tamano": 36033850
+    },
+    {
+      "nombre": "naturallychargedcreepers-1.20.1-3.7.jar",
+      "sha256": "b4b1d5691bbc99199ef6218de2b755dd282d59363a893075a8517ee3e34c31b4",
+      "tamano": 29298
+    },
+    {
+      "nombre": "open-parties-and-claims-forge-1.20.1-0.32.7.jar",
+      "sha256": "e315edb21094281e1182697e6fbfbb380bbec424eaf1c3daa1c40d831221f2cb",
+      "tamano": 1875093
+    },
+    {
+      "nombre": "plasmovoice-forge-1.20.1-2.1.17.jar",
+      "sha256": "2f2ae3a5856b44b460e72030a95318fc3657ae4c24ee3f3e16bcb5cbaa42e20d",
+      "tamano": 12337455
+    },
+    {
+      "nombre": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha256": "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded",
+      "tamano": 136923
+    },
+    {
+      "nombre": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "sha256": "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb",
+      "tamano": 431646
+    },
+    {
+      "nombre": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha256": "b13afb95231d88e1caea5a045967e0fc291b29020b0d26ad39e6f9e9a551fee8",
+      "tamano": 432753
+    },
+    {
+      "nombre": "tacz-1.20.1-1.1.8-hotfix2.jar",
+      "sha256": "2cbb89f44333d2eb4e825d86d789ff119b272ff75184390b55bafd4f0e7f10c2",
+      "tamano": 57472579
+    },
+    {
+      "nombre": "tl_skin_cape_forge_1.20-1.38.jar",
+      "sha256": "a6aa1286aa847ff9b6029c8901bbad30e05b4bcbc967142125c35499dfe5f5d3",
+      "tamano": 1180127
+    },
+    {
+      "nombre": "xaerominimap-forge-1.20.1-26.6.0.jar",
+      "sha256": "9b39cd06094d7631c8614d172d0ba8399c71c981530af417f12a7909fcb855bd",
+      "tamano": 2196194
+    },
+    {
+      "nombre": "zombieawareness-1.20.1-1.13.1.jar",
+      "sha256": "4f5104f7d29e1d065364d2483885f3751da2bef09a734cead2fce81c82c46586",
+      "tamano": 291139
+    }
+  ],
+  "eliminar": []
+}
