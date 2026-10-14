@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "generado": "2026-10-12T06:32:10.878Z",
   "mods": [
     {
@@ -212,6 +212,18 @@
       "sha256": "4f5104f7d29e1d065364d2483885f3751da2bef09a734cead2fce81c82c46586",
       "tamano": 291139
     }
+        {
+      "nombre": "SpiderOverhaul-0.0.6-Forge-v1.20.jar",
+      "sha256": "8d9e056e836271646c71ba3f3f2ff222199396a1b1c63539e3b95fbaaca1e5fd",
+      "tamano": 0
+    },
+    {
+      "nombre": "DEDSAFIO4-1.0.0-Forge.jar",
+      "sha256": "PEGA_AQUI_EL_HASH",
+      "tamano": 0
+    }
+  ]
+}
   ],
   "eliminar": []
 }
